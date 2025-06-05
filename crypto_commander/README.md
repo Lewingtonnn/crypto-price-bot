@@ -19,7 +19,7 @@ This is a Telegram bot that helps you track cryptocurrency prices and set real-t
 - Telegram account
 - CoinGecko API (no key required)
 
-Built by Lewis Ng'ang'a (https://github.com/Lewingtonnn)
+# Built by **Lewis Ng'ang'a** (https://github.com/Lewingtonnn)
 
 Install dependencies:
 
